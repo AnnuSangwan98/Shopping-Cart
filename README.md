@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Store
 
 A complete e-commerce solution with Go backend API and React frontend, featuring a modern UI with product images, cart management, and enhanced user experience.
@@ -342,3 +343,7 @@ This project is open source and available under the MIT License.
 ✅ **Responsive Design** for mobile and desktop  
 
 **This e-commerce solution is production-ready with excellent user experience and comprehensive functionality!** 🚀 
+=======
+# Shopping-Cart
+A full-stack e-commerce prototype built using Go (Gin + GORM + JWT) and React, featuring item listing, cart management, and order placement.
+>>>>>>> 18b6cceab96ba16079c023b7237a6d4831ae1dd3
